@@ -42,5 +42,10 @@ After building your http request, the `send` button will be clicked to send this
 The response will be place in the `Respsonse Area`, and the the history will shown in the `Request History Area` as follows,
 
 ![](https://github.com/achilles-liu/cute-http/blob/master/src/main/resources/png/response-info.jpg)
+
+#### Extract The detail of Request
+The detail of Request will be fetched by clicking the `Request` column of history record,
+![](https://github.com/achilles-liu/cute-http/blob/master/src/main/resources/png/detail.jpg)
+
 ### Summary
-N/A
+If you do not want to open a browser for debugging your API, it is useful to put Cute-Http on the desktop.
