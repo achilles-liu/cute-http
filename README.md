@@ -9,14 +9,14 @@ Assuming you have installed JDK(>=1.8) and Maven(>=3.0) here.
 - clone the source code
 
   ```
-  https://github.com/achilles-liu/cute-http.git
+  git clone https://github.com/achilles-liu/cute-http.git
   ```
 
 - package the source code
 
   ```
   cd cute-http
-  maven clean pacakge -Dmaven.test.skip=true
+  mvn clean pacakge -Dmaven.test.skip=true
   ```
 
   The executable file(.exe) will be found in the target directory([download](https://github.com/achilles-liu/cute-http/blob/master/src/main/resources/exe/cute-http.exe)).
