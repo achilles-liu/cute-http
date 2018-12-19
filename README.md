@@ -25,8 +25,11 @@ Assuming you have installed JDK(>=1.8) and Maven(>=3.0) here.
 
 ### Feature Introduction
 
-N/A
-
+![Feature](https://github.com/achilles-liu/cute-http/tree/master/doc/cute-http-1.jpg)
+#### Request Area
+You can build your http request in Request Area.
+#### Response Area
+#### Request History Area
 ### Usage
 
 N/A
