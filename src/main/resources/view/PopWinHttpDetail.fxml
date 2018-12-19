@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.TextArea?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="org.johnny.http.controller.HttpDetailController"
+	minWidth="500" minHeight="600">
+	<TextArea fx:id="txHttpDetail" AnchorPane.bottomAnchor="0" AnchorPane.topAnchor="0" 
+		AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" wrapText="true"></TextArea>
+</AnchorPane>
+
