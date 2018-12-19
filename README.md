@@ -25,7 +25,7 @@ Assuming you have installed JDK(>=1.8) and Maven(>=3.0) here.
 
 ### Feature Introduction
 
-![Feature](https://github.com/achilles-liu/cute-http/blob/master/doc/cute-http-1.jpg/cute-http-1.jpg)
+![Feature](https://github.com/achilles-liu/cute-http/blob/master/src/main/resources/png/cute-http-1.jpg)
 #### Request Area
 You can build your http request in Request Area.
 #### Response Area
