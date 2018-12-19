@@ -29,7 +29,9 @@ Assuming you have installed JDK(>=1.8) and Maven(>=3.0) here.
 #### Request Area
 You can build your http request in Request Area.
 #### Response Area
+N/A
 #### Request History Area
+N/A
 ### Usage
 
 N/A
