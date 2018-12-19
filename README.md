@@ -29,9 +29,17 @@ Assuming you have installed JDK(>=1.8) and Maven(>=3.0) here.
 #### Request Area
 You can build your http request in Request Area.
 #### Response Area
-N/A
+The area will show the response information.
 #### Request History Area
-N/A
+Request History Area will record all history which you have sent out. You can double-click `Request` column to preview the detail of request.
 ### Usage
+#### Build HTTP Request
 
+![Request](https://github.com/achilles-liu/cute-http/blob/master/src/main/resources/png/build-request.jpg)
+After building your http request, the `send` button will be clicked to send this request.
+#### Extract HTTP Response
+The response will be place in the `Respsonse Area`, and the the history will shown in the `Request History Area` as follows,
+
+![](https://github.com/achilles-liu/cute-http/blob/master/src/main/resources/png/response-info.jpg)
+### Summary
 N/A
